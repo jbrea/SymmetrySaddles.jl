@@ -1,5 +1,5 @@
 # Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances
-za
+
 This is the code to reproduce the figures in
 [Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances](https://arxiv.org/abs/2105.12221),
 Berfin Şimşek, François Ged, Arthur Jacot, Francesco Spadaro, Clément Hongler, Wulfram Gerstner, Johanni Brea
